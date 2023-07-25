@@ -1,6 +1,6 @@
 # MRSA_inference
 
-Code for running a synthetic test in Pei S., Liljeros F., Shaman J. Identifying asymptomatic spreaders of antimicrobial-resistant pathogens in hospital settings.
+Code for running a synthetic test in Pei S., Liljeros F., Shaman J. Identifying asymptomatic spreaders of antimicrobial-resistant pathogens in hospital settings. Proceedings of the National Academy of Sciences of the United States of America 118, e2111190118 (2021).
 
 To run the code, first compile the C programs in MATLAB using "mex agentbasedprob.c" and "mex agentbasedsimulation". Then run the function "SILIinference()". Explanations on data, variables, and algorithm details can be found in the comments in the function SILIinference.
 
